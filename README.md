@@ -6,5 +6,3 @@ All of this code is to be used for educational and legal purposes, crearly focus
 I am not responsible for any missuse of this software, it is just knowledge, and if you choose to do something not so smart or even ilegal it is on you.
 
 If you wnat to corntibute or anything feel free, for the moment it is just a collection of small scripts in python, bash, batch, powershell or anything alike.
-
-The code will be grouped acording to the cycle of penetration testing, and the proper task they are destined to solve.
